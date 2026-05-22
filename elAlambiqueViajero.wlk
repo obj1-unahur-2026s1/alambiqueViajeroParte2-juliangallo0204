@@ -106,3 +106,7 @@ object moto{
     method desgaste() { }
     method patenteValida() = false
 }
+
+object nada {
+    
+}
